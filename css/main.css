@@ -395,6 +395,38 @@ header {
   border-bottom: 2px solid #e11d48;
 }
 
+/* Benefit-Items Start */
+.benefit-items-section {
+  margin-top: 100px;
+  border: 2px solid #fecdd3;
+  padding: 30px;
+  border-radius: 3px;
+}
+
+.benefit-items-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.benefit-item {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.benefit-item-text h3 {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.benefit-item-text p {
+  color: #999;
+}
+
+/* Benefit-Items End */
+
+
 /* About Our Shop Shop End */
 
 footer {
