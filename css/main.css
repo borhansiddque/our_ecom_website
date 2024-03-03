@@ -397,66 +397,6 @@ header {
 
 /* About Our Shop Shop End */
 
-
-/* test */
-.our-new-collocation {
-  margin-top: 100px;
-}
-
-.our-new-collocation-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 40px;
-  margin-top: 50px;
-}
-
-.our-new-collocation-container img {
-  height: 100px;
-}
-
-/* ================ */
-
-.t-shirt-collocation {
-  margin-top: 100px;
-}
-
-.solid-collocation h3,
-.polo-collocation h3,
-.drop-shoulder-collocation h3 {
-  font-size: 1.5rem;
-}
-
-.solid-collocation h3 span,
-.polo-collocation h3 span,
-.drop-shoulder-collocation h3 span {
-  color: #e11d48;
-}
-
-.solid-collocation-items {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 40px;
-  margin-top: 30px;
-}
-
-.solid-collocation-items img {
-  height: 200px;
-}
-
-
-.polo-collocation,
-.drop-shoulder-collocation {
-  margin-top: 50px;
-}
-/* test */
-
-
-
-
-
-
 footer {
   margin-top: 100px;
   background-color: #ddd;
