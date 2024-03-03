@@ -133,7 +133,14 @@ li {
   transition: all .3s;
 }
 
-.main-nav-container .ri-shopping-cart-2-line {
+.main-nav-icon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.main-nav-icon .ri-shopping-cart-2-line,
+.main-nav-icon .ri-heart-line {
   font-size: 2rem;
   color: #f43f5e;
 }
